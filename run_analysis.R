@@ -1,4 +1,4 @@
-setwd("E:/DATEN/1_THEMEN/01_MOOC coursera.org/Getting and Cleaning Data (getdata-009)/2015.01.26 Project1")
+setwd("./Getting and Cleaning Data/Project1")
 
 # Load feature names
 features <- read.table('features.txt', header=FALSE, col.names=c('id', 'featureName'), colClasses = c('numeric', 'character'))
