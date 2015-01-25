@@ -1,1 +1,2 @@
-# Getting-and-Cleaning-Data
+
+source('run_analysis.R')
